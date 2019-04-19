@@ -1,6 +1,6 @@
 {
-    "token": "plz but your token",
-    "prefix": ".",
-    "ownerID":["378575138444017665"],
+    "token": "process.env.BOT_TOKEN",
+    "prefix": "+",
+    "ownerID":["542760200923381770"],
     "color":"#ec8f8f"
 }
